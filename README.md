@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a web developer and programmer from the Void, I publish some of my projects as public.
+I'm a web application and program developer from the Void, I publish some of my projects as public.
 I mainly code in JavaScript and C++, but I am always learning.
 - 🚀 I use daily:
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
