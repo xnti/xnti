@@ -28,7 +28,7 @@ I am working on React.js and internet applications with JavaScript.
 - JavaScript
 - HTML, CSS
 - SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- Node.js
 - MongoDB
 
 ### Program development
