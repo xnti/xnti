@@ -8,7 +8,9 @@ I mainly code in JavaScript and C++, but I am always learning.
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 - ⚙️ I use for programming:
+  ![C](https://img.shields.io/badge/-C-B00000?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![C#](https://img.shields.io/badge/-C%23-06A700?style=plastic&logo=c)
 
 - 💻 I use for web development:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
