@@ -27,6 +27,7 @@ I mainly code in JavaScript and C++, but I am always learning.
 ## Website 🔌
 
 My website is mainly for my customers, but I also share my knowledge in there.
+
 `poorly codded in EJS engine lol`
 - [antidev.xyz](https://antidev.xyz) - my thanks to my sponsors and customers.
 
