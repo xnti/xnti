@@ -24,6 +24,13 @@ I mainly code in JavaScript and C++, but I am always learning.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
 
+## Website 🔌
+
+My website is mainly for my customers, but I also share my knowledge in there.
+
+- [antidev.xyz](https://antidev.xyz) - my thanks to my sponsors and customers.
+
+
 ## Quick overview
 * GitHub stats:  
 <a href="https://antidev.xyz">
@@ -80,10 +87,6 @@ I am working on React.js and internet applications with JavaScript.
 - Python
 - React Native
 
-## Website 🔌
 
-My website is mainly for my customers, but I also share my knowledge in there.
-
-- [antidev.xyz](https://antidev.xyz) - my thanks to my sponsors and customers.
 
 </details>
