@@ -6,8 +6,12 @@ I mainly code in JavaScript and C++, but I am always learning.
 ## Quick overview
 * GitHub stats:  
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnti&langs_count=8" />
+  </a>
+  <a>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xnti&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  </a>
 
 
 <details>
@@ -41,7 +45,7 @@ I am working on React.js and internet applications with JavaScript.
 
 | Language      | Proficiency      |
 | ------------- | -----------------|
-| English       | C2               |
+| English       | B2???            |
 | xxx           | Native language  |
 
 ## What I'm currently learning 📚
