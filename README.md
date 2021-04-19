@@ -31,7 +31,6 @@ I am working on React.js and internet applications with JavaScript.
 
 - JavaScript
 - HTML, CSS
-- SCSS
 - Node.js
 - MongoDB
 
@@ -55,7 +54,7 @@ I am working on React.js and internet applications with JavaScript.
 
 ## Website 🔌
 
-My website is mainly for my customers, but I also share my knowledge in there
+My website is mainly for my customers, but I also share my knowledge in there.
 
 - [antidev.xyz](https://antidev.xyz) - my thanks to my sponsors and customers.
 
