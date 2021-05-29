@@ -32,6 +32,7 @@ My personal website is mainly for my customers, but I also share my knowledge in
 - [antidev.xyz](https://antidev.xyz) - my thanks to my sponsors and customers.
 
 I also launched a website to detect Discord fraudsters/scammers and prevent fraud/scam.
+
 `codded in React.JS`
 - [discordscammers.com](https://discordscammers.com) - thanks to all donators :).
 
