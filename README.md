@@ -29,7 +29,7 @@ I mainly code in JavaScript and C++, but I am always learning.
 My personal website is mainly for my customers, but I also share my knowledge in there.
 
 `codded in ReactJS front-end, NodeJS back-end`
-- [antidev.xyz](https://antidev.xyz) - my thanks to my sponsors and customers.
+- [antidev.net](https://antidev.net) - my thanks to my sponsors and customers.
 
 I also launched a website to detect Discord fraudsters/scammers and prevent fraud/scam.
 
