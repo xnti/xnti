@@ -8,6 +8,7 @@ I mainly code in JavaScript and C++, but I am always learning.
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 - ⚙️ I use for programming:
+  ![Rust](https://img.shields.io/badge/-Rust-f74c00?style=plastic&logo=rust)
   ![C](https://img.shields.io/badge/-C-B00000?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![C#](https://img.shields.io/badge/-C%23-06A700?style=plastic&logo=c)
