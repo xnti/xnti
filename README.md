@@ -1,17 +1,3 @@
-# Hello :wave:
-
-- ⚙️ I use for programming:
-  ![Rust](https://img.shields.io/badge/-Rust-f74c00?style=plastic&logo=rust)
-  ![C](https://img.shields.io/badge/-C-B00000?style=plastic&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-
-- ⚡️ I use for back-end:
-  ![Rust](https://img.shields.io/badge/-Rust-f74c00?style=plastic&logo=rust)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-
-## Websites 🔌
-- [visenya.xyz](https://visenya.xyz) - Dead by Daylight exploits.
 
 ## Quick overview
 * GitHub stats:  
